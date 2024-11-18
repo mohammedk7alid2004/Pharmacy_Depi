@@ -1,0 +1,537 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\UI.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\.gitignore",
+      "PackagePath": "staticwebassets\\.gitignore"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\README.md",
+      "PackagePath": "staticwebassets\\README.md"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\eslint.config.js",
+      "PackagePath": "staticwebassets\\eslint.config.js"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\package-lock.json",
+      "PackagePath": "staticwebassets\\package-lock.json"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\package.json",
+      "PackagePath": "staticwebassets\\package.json"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\postcss.config.js",
+      "PackagePath": "staticwebassets\\postcss.config.js"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\App.css",
+      "PackagePath": "staticwebassets\\src\\App.css"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\App.jsx",
+      "PackagePath": "staticwebassets\\src\\App.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\assets\\Bloom-22.jpg",
+      "PackagePath": "staticwebassets\\src\\assets\\Bloom-22.jpg"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\assets\\CIB.svg",
+      "PackagePath": "staticwebassets\\src\\assets\\CIB.svg"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\assets\\Cash.svg",
+      "PackagePath": "staticwebassets\\src\\assets\\Cash.svg"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\assets\\Mastercard.svg",
+      "PackagePath": "staticwebassets\\src\\assets\\Mastercard.svg"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\assets\\Visa.svg",
+      "PackagePath": "staticwebassets\\src\\assets\\Visa.svg"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\assets\\after-sun-care-404974.jpg",
+      "PackagePath": "staticwebassets\\src\\assets\\after-sun-care-404974.jpg"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\assets\\bloom.png",
+      "PackagePath": "staticwebassets\\src\\assets\\bloom.png"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\assets\\cash-icon.png",
+      "PackagePath": "staticwebassets\\src\\assets\\cash-icon.png"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\assets\\dalida.jpg",
+      "PackagePath": "staticwebassets\\src\\assets\\dalida.jpg"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\assets\\face.png",
+      "PackagePath": "staticwebassets\\src\\assets\\face.png"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\assets\\footerBg.png",
+      "PackagePath": "staticwebassets\\src\\assets\\footerBg.png"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\assets\\free-shipping.png",
+      "PackagePath": "staticwebassets\\src\\assets\\free-shipping.png"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\assets\\head-set.png",
+      "PackagePath": "staticwebassets\\src\\assets\\head-set.png"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\assets\\logo.jpg",
+      "PackagePath": "staticwebassets\\src\\assets\\logo.jpg"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\assets\\react.svg",
+      "PackagePath": "staticwebassets\\src\\assets\\react.svg"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\Ad.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\Ad.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\Brand.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\Brand.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\Cart.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\Cart.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\Categories.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\Categories.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\Comment.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\Comment.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\Dashboard\\CategoriesManagement.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\Dashboard\\CategoriesManagement.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\Dashboard\\CommentsManagement.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\Dashboard\\CommentsManagement.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\Dashboard\\DashMenu.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\Dashboard\\DashMenu.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\Dashboard\\Dashboard.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\Dashboard\\Dashboard.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\Dashboard\\HelloDash.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\Dashboard\\HelloDash.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\Dashboard\\OrdersManagement.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\Dashboard\\OrdersManagement.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\Dashboard\\ProductsManagement.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\Dashboard\\ProductsManagement.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\Dashboard\\UpdateModal.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\Dashboard\\UpdateModal.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\Details.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\Details.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\Footer.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\Footer.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\FooterCard.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\FooterCard.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\Home.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\Home.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\IconCategory.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\IconCategory.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\Loader.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\Loader.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\Login.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\Login.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\NavBar.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\NavBar.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\NotFoundPage.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\NotFoundPage.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\ProductCard.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\ProductCard.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\ProductDetails.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\ProductDetails.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\Products.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\Products.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\Protected.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\Protected.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\Register.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\Register.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\Shop.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\Shop.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\Sidebar.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\Sidebar.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\components\\Tail.jsx",
+      "PackagePath": "staticwebassets\\src\\components\\Tail.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\contexts\\AuthContext.jsx",
+      "PackagePath": "staticwebassets\\src\\contexts\\AuthContext.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\contexts\\CartContext.jsx",
+      "PackagePath": "staticwebassets\\src\\contexts\\CartContext.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\contexts\\ProductsContext.jsx",
+      "PackagePath": "staticwebassets\\src\\contexts\\ProductsContext.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\design\\Button.jsx",
+      "PackagePath": "staticwebassets\\src\\design\\Button.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\design\\Hint.jsx",
+      "PackagePath": "staticwebassets\\src\\design\\Hint.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\design\\LoginInput.jsx",
+      "PackagePath": "staticwebassets\\src\\design\\LoginInput.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\design\\LoginP.jsx",
+      "PackagePath": "staticwebassets\\src\\design\\LoginP.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\design\\LoginTitle.jsx",
+      "PackagePath": "staticwebassets\\src\\design\\LoginTitle.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\design\\TitleLine.jsx",
+      "PackagePath": "staticwebassets\\src\\design\\TitleLine.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\design\\TitleSection.jsx",
+      "PackagePath": "staticwebassets\\src\\design\\TitleSection.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\index.css",
+      "PackagePath": "staticwebassets\\src\\index.css"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\src\\main.jsx",
+      "PackagePath": "staticwebassets\\src\\main.jsx"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\tailwind.config.js",
+      "PackagePath": "staticwebassets\\tailwind.config.js"
+    },
+    {
+      "Id": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\wwwroot\\vite.config.js",
+      "PackagePath": "staticwebassets\\vite.config.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.UI.props",
+      "PackagePath": "build\\UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.UI.props",
+      "PackagePath": "buildMultiTargeting\\UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.UI.props",
+      "PackagePath": "buildTransitive\\UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

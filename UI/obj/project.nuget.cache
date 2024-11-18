@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kcwEiTEXBGY=",
+  "success": true,
+  "projectFilePath": "E:\\Project depi\\DEPI-Pharmacy-main\\UI\\UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohamed_Khaled\\.nuget\\packages\\node.js\\0.12.7\\node.js.0.12.7.nupkg.sha512",
+    "C:\\Users\\Mohamed_Khaled\\.nuget\\packages\\nogit\\0.1.0\\nogit.0.1.0.nupkg.sha512",
+    "C:\\Users\\Mohamed_Khaled\\.nuget\\packages\\npm\\3.5.2\\npm.3.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
